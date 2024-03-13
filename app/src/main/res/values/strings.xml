@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Lifestyle App</string>
+
+    <!--   profile text field labels -->
+    <string name="name_label">Name:</string>
+    <string name="age_label">Age:</string>
+    <string name="location_label">Location:</string>
+    <string name="height_label">Height:</string>
+    <string name="weight_label">Weight:</string>
+    <string name="sex_label">Sex:</string>
+    <string name="activity_level_label">Activity Level:</string>
+
+    <!--  weather labels -->
+    <string name="high_temp_label">High:</string>
+    <string name="low_temp_label">Low:</string>
+    <string name="humidity_label">Humidity:</string>
+
+    <!--   Titles and subtitles -->
+    <string name="bmr_header">Your basal metabolic rate:</string>
+    <string name="weather_header">Weather in %1$s</string>
+
+
+    <!--   Navigation labels -->
+    <string name="menu_profile">Profile</string>
+    <string name="menu_hikes">Hikes</string>
+    <string name="menu_weather">Weather</string>
+
+    <!-- Button labels -->
+    <string name="bmr_button">BMR</string>
+</resources>
